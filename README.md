@@ -2,7 +2,9 @@
 I'm a 3rd-year Computer Science student at **Industrial University of Ho Chi Minh City** actively seeking a **BA / Data / AI** Internship.
 
 🎓 **Expected graduation:** 2029  
+
 🌱 **Currently deep diving into:** Image Processing, Machine Learning, Database Management System
+
 💡 **I love building:** Passionate about exploration, predictive modeling, communication, and data analytics  
 
 📫 **Let's connect:**  
